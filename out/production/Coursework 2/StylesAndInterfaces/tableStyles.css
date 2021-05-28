@@ -1,0 +1,8 @@
+#one,#two{
+    -fx-font-size: 20px;
+}
+
+#one{
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
